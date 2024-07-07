@@ -45,4 +45,4 @@ For newcomers, feel free to keep a copy of this whole folder and play around wit
 To start the game, simply run the main script:
 
 ```bash
-python main.py
+python guess-the-number.py
